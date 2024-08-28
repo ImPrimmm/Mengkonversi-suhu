@@ -1,0 +1,1 @@
+This file contains a program to convert temperatures ranging from Celsius, Fahrenheit, Kelvin, and Reamur.
